@@ -11,6 +11,8 @@ import (
 	"bytes"
 	"strings"
 	"testing"
+
+	"float"
 )
 
 func TestBinaryParamsEncode(t *testing.T) {
